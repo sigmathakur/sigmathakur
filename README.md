@@ -7,22 +7,22 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/tjx1zm.jpg" width="140px" height="140px" style="border-radius:50%;" />
+  <img src="https://files.catbox.moe/tjx1zm.jpg" width="140px" height="140px" />
 </p>
 
-<h2 align="center">ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ sɪɢᴍᴀ ᴛʜᴀᴋᴜʀ 👀 </h2>
+<h2 align="center">ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ sɪɢᴍᴀ ᴛʜᴀᴋᴜʀ 👀</h2>
 
 <p align="center">
-  👨‍💻 ᴄᴜsᴛᴏᴍ ᴅᴇᴠᴇʟᴏᴘᴇʀ | 📢 sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʙᴀɴɴᴇʀ | 🎮 ɢᴀᴍᴇʀ
+  👨‍💻 ᴘʏᴛʜᴏɴ ʟᴇᴀʀɴᴇʀ | 🤖 ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴅᴇᴠ | 🚀 ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ
 </p>
 
 <p align="center">
-  🧡 ɪ'ᴍ ɴᴏᴛ ᴀ ᴘʀᴏғᴇssɪᴏɴᴀʟ ᴄᴏᴅᴇʀ, ɪ ᴊᴜsᴛ ʜᴀᴠᴇ sᴏᴍᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏғ ᴄᴏᴅɪɴɢ ᴀɴᴅ ʟᴏᴠᴇ ʟᴇᴀʀɴɪɴɢ ɴᴇᴡ ᴛʜɪɴɢs. 🚀
+  🚩 ʜᴀɴᴜᴍᴀɴᴛ ꜱᴀᴅᴀ ꜱᴀʜᴀʏᴀᴛᴇ !! 🚩
 </p>
 
 ---
 
-<h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
+<h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ & ɪɴꜰᴏ</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sigmathakur&show_icons=true&theme=radical&border_radius=20" width="48%" />
@@ -36,18 +36,17 @@
 
 ---
 
-<h2 align="center">🏖️ ꜱᴏᴍᴇ ᴘʀᴏɢʀᴀᴍɪɴɢ ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ʙᴀꜱɪᴄ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ</h2>
+<h2 align="center">🛠️ ꜱᴋɪʟʟꜱ</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,linux,bash,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,linux,bash" />
 </p>
 
 ---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sigmathakur&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Im-Notcoder?style=for-the-badge&label=FOLLOWERS&color=blue"/>
-<img src="https://img.shields.io/github/stars/sigmathakur?style=for-the-badge&label=STARS&color=yellow"/>
+<img src="https://img.shields.io/github/followers/sigmathakur?style=for-the-badge&label=FOLLOWERS&color=blue"/>
 </p>
 
 ---
@@ -61,30 +60,18 @@
 <h2 align="center">📫 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
 
 <p align="center">
-  <a href="https://t.me/sigma_thwkur">
-  <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
-</a>
-  <a href="https://instagram.com/its_thakur_366">
-    <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/-protifolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/-GMAIL-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <a href="https://t.me/Sigma_thakur">
+    <img src="https://img.shields.io/badge/-Sigma__Thakur-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🤝 ᴊᴏɪɴ ᴜs</h2>
+<h2 align="center">🤝 ᴊᴏɪɴ ᴜꜱ</h2>
 
 <p align="center">
   <a href="https://t.me/subbubots">
-    <img src="https://img.shields.io/badge/-purvi__updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
-  </a>
-  <a href="https://t.me/subbubots">
-    <img src="https://img.shields.io/badge/-purvi__bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/-Sigma__Updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
